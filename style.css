@@ -4,9 +4,9 @@
     --cor-de-fundo: #1E1E1E;
     --verde: #ffa357;
     --branco: #FFFFFF;
-    --botao-ativo: #77522f;
+    --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --texto-fundo: rgba(94, 76, 55, 0.3);
 }
 
 body {
@@ -103,7 +103,26 @@ body {
     text-align: center;
     min-width: 100px;
 }
-.contador-digito-texto{
+.contador-digito-texto{Aniversarios_
+    ￼Aniversario Nicolas
+    ￼Aniversario Alana
+    ￼Aniversario Mãe
+    ￼Aniversario Carol
+    Aniversario Carol
+    TEMPO PARA COMPLETAR MAIS 1 ANIVERSARIO
+    62
+    
+    dias
+    
+    20
+    
+    horas
+    
+    31
+    
+    min
+    
+    46
     color: var(--verde);
     font-size: 20px;
     margin: 0;
