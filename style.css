@@ -142,4 +142,6 @@ body {
 
 .imagem{
     text-align: center;
+    width: 100%;
+    height: auto;
 }
